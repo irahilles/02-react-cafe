@@ -1,4 +1,4 @@
-import css from './CafeInfo.modelu.css';
+import css from './CafeInfo.module.css';
 
 export default function CafeInfo(){
     return (
