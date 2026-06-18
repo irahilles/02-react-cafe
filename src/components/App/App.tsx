@@ -1,9 +1,9 @@
 import css from './App.module.css';
-import CafeInfo from '../FolderCafeInfo/CafeInfo';
+import CafeInfo from '../CafeInfo/CafeInfo';
 import { useState } from 'react';
 import type { Votes, VoteType} from '../../types/votes';
-import VoteOptions from '../FolderVoteOptions/VoteOptions';
-import VoteStats from '../VoteStatsF/VoteStats';
+import VoteOptions from '../VoteOptions/VoteOptions';
+import VoteStats from '../VoteStats/VoteStats';
 import Notification from '../Not-folder/Notification';
 
 export default function App(){
